@@ -7,7 +7,7 @@ From the terminal:
 wget https://github.com/viniciusd-avila/memorable-password-generator/blob/master/mempassgen.sh
 wget http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt 
 chmod +x mempassgen.sh
-bash mempassgen.sh -f wordsEn.txt -n <number of words> -v 
+bash mempassgen.sh -f wordsEn.txt -n <number of words; default=4> -v 
 ```
 
 Example:
