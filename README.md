@@ -2,6 +2,8 @@
 
 Simple bash script that concatenates _n_ random words from a file such as [wordsEn.txt](http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt) (109582 English words).
 
+![Inspired by xkcd.](https://imgs.xkcd.com/comics/password_strength.png)
+
 From the terminal:
 ```
 wget https://github.com/viniciusd-avila/memorable-password-generator/blob/master/mempassgen.sh
