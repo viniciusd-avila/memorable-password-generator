@@ -23,7 +23,7 @@ ubound=$(wc -l < $filename);
 
 for i in `seq 1 $nwords`; do
 	randword=$(echo $(sed -n $(shuf -i 0-$ubound -n 1)'p' < $filename) | tr -d '\r');
-	if [ $verbose ] 
+	if $verbose 
 	then 
 		echo $randword; 
 	fi
