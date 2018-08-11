@@ -15,11 +15,12 @@ bash mempassgen.sh -f wordsEn.txt -n <number of words; default=4> -v
 Example:
 ```
 bash mempassgen.sh -f wordsEn.txt -v
-trillionths
-circulate
-quarries
-misinformation
-trillionthscirculatequarriesmisinformation
+commissioners
+protesting
+cancer
+photography
+commissionersprotestingcancerphotography
+
 ```
 
 Don't use that one of course!
