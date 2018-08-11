@@ -6,7 +6,7 @@ Simple bash script that concatenates _n_ random words from a file such as [words
 
 From the terminal:
 ```
-wget https://github.com/viniciusd-avila/memorable-password-generator/blob/master/mempassgen.sh
+wget https://raw.githubusercontent.com/viniciusd-avila/memorable-password-generator/master/mempassgen.sh
 wget http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt 
 chmod +x mempassgen.sh
 bash mempassgen.sh -f wordsEn.txt -n <number of words; default=4> -v 
