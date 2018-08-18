@@ -9,7 +9,7 @@ From the terminal:
 wget https://raw.githubusercontent.com/viniciusd-avila/memorable-password-generator/master/mempassgen.sh
 wget http://www-01.sil.org/linguistics/wordlists/english/wordlist/wordsEn.txt 
 chmod +x mempassgen.sh
-bash mempassgen.sh -f wordsEn.txt -n <number of words; default=4> -v 
+bash mempassgen.sh -f wordsEn.txt -n 4 -v 
 ```
 
 Example:
@@ -18,8 +18,9 @@ bash mempassgen.sh -f wordsEn.txt -v
 commissioners
 protesting
 cancer
-photography
+	photography
 commissionersprotestingcancerphotography
+40 characters
 ```
 
 Don't use that one of course!
