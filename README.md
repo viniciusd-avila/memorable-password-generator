@@ -15,12 +15,10 @@ bash mempassgen.sh -f wordsEn.txt -n 4 -v
 Example:
 ```
 bash mempassgen.sh -f wordsEn.txt -v
-commissioners
-protesting
-cancer
-	photography
+commissioners  protesting  cancer  photography
 commissionersprotestingcancerphotography
 40 characters
+56 bits of entropy
 ```
 
 Don't use that one of course!
