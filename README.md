@@ -22,3 +22,7 @@ commissionersprotestingcancerphotography
 ```
 
 Don't use that one of course!
+
+## Dictionary attacks
+
+I've had that concern brought up to me, "Isn't one of the most common techniques a dictionary attack, and wouldn't this password guideline be vulnerable to it?". This comes from a misundestanding of how dictionary attacks actually work. They don't simply use an English dictionary and generate all the possible different arrangements, that would leave you with quintillions of passwords to test against. What this tactic actually entails is using known common passwords such as "password1", which is not even in the English dictionary, to try and brute force into a system. This dictionary is comprised of passwords gathered from leaked databases.
